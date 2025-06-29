@@ -49,5 +49,3 @@ Let's connect and build something amazing together!
 - 💻 **GitHub**: [https://github.com/Rathnakar9](https://github.com/Rathnakar9)
 
 ---
-
-*Based on [portfolio template](https://github.com/yashrajnayak/developer-portfolio) originally created by [Yashraj Nayak](https://github.com/yashrajnayak)*
